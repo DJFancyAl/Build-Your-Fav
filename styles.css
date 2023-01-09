@@ -59,16 +59,20 @@ footer {
     width: 100%;
 }
 
+.video2 {
+    top: 35%;
+    left: 55%;
+    max-height: 40%;
+}
+
 form input {
     padding: 1em 0.5em;
-    /* width: 75%; */
     margin: 0px;
 }
 
 form button {
     margin: 0px;
     border: 0px;
-    /* width: 25%; */
 }
 
 .accordion-item:first-of-type {
